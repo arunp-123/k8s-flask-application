@@ -1,7 +1,10 @@
 flask-app creation
 
-$ kubectl apply -f django-travel-app.yml
+$ kubectl apply -f flaskapp.yml
 
-django-travel-app ingress
+flask-app ingress
 
 $ kubectl apply -f ingress.yml
+
+
+
