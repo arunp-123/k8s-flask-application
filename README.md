@@ -2,7 +2,9 @@ flask-app creation
 
 $ kubectl apply -f flaskapp.yml
 
-flask-app ingress
+For host based ﻿Routing Rule added the ingress.yml
+
+flask-app ingress creation
 
 $ kubectl apply -f ingress.yml
 
